@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">BAC Calculator</string>
+    <string name="drink_label1">1 oz</string>
+    <string name="drink_label2">5 oz</string>
+    <string name="drink_label3">12 oz</string>
+    <string name="greenColor">#069d15</string>
+    <string name="redColor">#800000</string>
+    <string name="yellowColor">#E9A215</string>
+    <string name="weight_label">Weight (lbs)</string>
+    <string name="weight_hint">Enter weight</string>
+    <string name="save_button">Save</string>
+    <string name="drink_label">Drink Size</string>
+    <string name="alcohol_label">Alcohol %</string>
+    <string name="add_button">Add Drink</string>
+    <string name="reset_button">Reset</string>
+    <string name="bac_label">BAC Level: </string>
+    <string name="bac_value">0.0</string>
+    <string name="alcohol_value">0%</string>
+    <string name="gender_label">Gender</string>
+    <string name="status_label">You are safe.</string>
+</resources>
